@@ -1,0 +1,1 @@
+Argo_Cut.ipynb just picks the 100 meter sea temperature from the input data and then pick the zonal band from (50.5 E to 29.5 E) (22 Latitudes).
