@@ -18,9 +18,6 @@ sstlong = circshift(sstlong, -zero_index, 1);
 
 
 
-
-
-
 %%
 test = sst19_23(:,:,8,11);
 
