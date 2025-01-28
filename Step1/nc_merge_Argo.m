@@ -1,4 +1,5 @@
-clc;clear
+clc
+clear
 
 %%
 file = "C:\Users\lv299\OneDrive\STF_Paper\Subtropical-Front-Modeling-Code\Step1\Argo_Raw\RG_ArgoClim_Temperature_2019.nc";
